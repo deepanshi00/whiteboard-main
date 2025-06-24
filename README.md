@@ -19,6 +19,9 @@ This full-stack application enables multiple users to collaborate on a shared wh
 - **Backend**: Node.js, Express 4.18.2, Socket.io 4.7.5
 - **Build Tool**: Vite 6.3.5
 
+### Deployed Website Link
+https://whiteboard-3ut1.onrender.com/
+
 ## 🚀 Steps to Reproduce Results
 
 ### Prerequisites
